@@ -32,5 +32,3 @@ This project will be broken down into three main notebooks:
 ## Acknowledgments
 
 This project is part of the **Udacity Machine Learning Engineer Nanodegree** course on Udacity. Special thanks to the course instructor for the guidance and inspiration.
-
-Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
