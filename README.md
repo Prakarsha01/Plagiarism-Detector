@@ -11,7 +11,6 @@ This project will be broken down into three main notebooks:
 
 * Load in the corpus of plagiarism text data.
 * Explore the existing data features and the data distribution.
-* This first notebook is **not** required in your final project submission.
 
 **Notebook 2: Feature Engineering**
 
@@ -22,10 +21,10 @@ This project will be broken down into three main notebooks:
 
 **Notebook 3: Train and Deploy Your Model in SageMaker**
 
-* Upload your train/test feature data to S3.
+* Upload train/test feature data to S3.
 * Define a binary classification model and a training script.
-* Train your model and deploy it using SageMaker.
-* Evaluate your deployed classifier.
+* Train model and deploy it using SageMaker.
+* Evaluate deployed classifier.
 
 ---
 
